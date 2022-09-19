@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "name": "funcionarios",
+  "version": "1.0.0",
+  "main": "funcionarios.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "author": "Carlos",
+  "license": "ISC",
+  "description": ""
+}
